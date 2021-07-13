@@ -1,3 +1,0 @@
-# GTF_parser
-
-Test
